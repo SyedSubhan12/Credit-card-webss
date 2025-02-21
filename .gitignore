@@ -1,9 +1,2 @@
 credit_1.csv
-daily_spending_trends.png
-payment_methods.png
-peak_spending_hours.png
-spending_vs_location.png
-streamlit.py
-top_spending_categories_amount.png
-top_spending_categories_volume.png
-xgboost_model.pkl
+test_data.csv
